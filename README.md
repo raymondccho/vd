@@ -6,6 +6,7 @@ Visualize ANYTHING Using CHARTS in ChatGPT! (Data Analysis) - YouTube
 https://www.youtube.com/watch?v=dWrXUFXSiJM
 
 Transcript:
+
 (00:00) chat GPT can help you in so many ways it can help with brainstorming ideation content generation task Automation and much more but one thing it does very well is helping you with data analysis you have the ability to upload over 10,000 rows of data whether that be in an Excel sheet or a Google sheet and you can get it analyzed with chat GPT you can get it cleaned you can get downloadable copies you can re-upload to your program and so much more it's great at helping you view and analyze your data but if you're anything like me you
 
 (00:34) are a very visual person and lucky for you and I we have the ability to generate charts and graphs in order to view our data in a more effective way while using chat GPT so you can get these charts generated along the powerful gp4 model you can ask it questions about the charts you can view your data in many different ways that you never thought possible and so much more I am so excited to get into this video to show you how to generate charts in chat GPT to show you how to view your data in chat GPT and this is going to be
